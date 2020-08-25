@@ -1,0 +1,405 @@
+2017-09-26 23:45:13,129 INFO  [ListenerTest] Regression Suite---Test Suite starting---
+ 
+2017-09-26 23:46:07,245 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2017-09-26 23:46:07,245 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2017-09-26 23:48:23,596 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is SSE - Energy, broadband, and boiler cover for your home 
+2017-09-26 23:48:27,597 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2017-09-26 23:48:27,601 INFO  [HomePage] Homepage constructor is Invoked 
+2017-09-26 23:48:27,917 INFO  [WebDriverListener] After clicking url https://sse.co.uk/home 
+2017-09-26 23:48:28,165 INFO  [WebDriverListener] After clicking url https://sse.co.uk/home 
+2017-09-26 23:48:28,658 INFO  [HomePage] Menu Link Energy is Clicked 
+2017-09-26 23:48:28,662 INFO  [Energy] Energy constructor is Invoked 
+2017-09-26 23:49:00,293 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:49:00,293 INFO  [Energy] Submenu Prices and Tariff Information is Clicked 
+2017-09-26 23:49:00,294 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:49:01,058 INFO  [PricesTariffInfo] postcode is inputted -PO91QH 
+2017-09-26 23:49:01,058 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:49:01,303 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:49:01,303 INFO  [PricesTariffInfo] View Tariff button is clicked 
+2017-09-26 23:49:01,306 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:49:21,304 INFO  [UtilClass] Sleeping for 3 seconds 
+2017-09-26 23:49:24,543 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:49:24,928 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:49:28,313 INFO  [Prices] Tariff Type is selected - standard electricity tariffs 
+2017-09-26 23:49:28,313 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:49:28,662 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:49:28,902 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:49:33,286 INFO  [Prices] Tariff Availability Type is selected - available for sale 
+2017-09-26 23:49:33,286 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:49:33,574 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:49:33,801 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:49:33,801 INFO  [Prices] Tariff is selected - Fix 2020 
+2017-09-26 23:49:33,801 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:49:33,975 INFO  [Prices] Standing charge is 14.80 
+2017-09-26 23:49:33,975 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2017-09-26 23:49:34,367 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2017-09-26 23:49:34,367 INFO  [HomePage] Homepage constructor is Invoked 
+2017-09-26 23:49:34,712 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:49:34,712 INFO  [HomePage] Menu Link Energy is Clicked 
+2017-09-26 23:49:34,712 INFO  [Energy] Energy constructor is Invoked 
+2017-09-26 23:50:24,393 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:50:24,393 INFO  [Energy] Submenu Prices and Tariff Information is Clicked 
+2017-09-26 23:50:24,393 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:50:24,803 INFO  [PricesTariffInfo] postcode is inputted -PO91QH 
+2017-09-26 23:50:24,803 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:50:25,056 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:50:25,056 INFO  [PricesTariffInfo] View Tariff button is clicked 
+2017-09-26 23:50:25,056 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:50:47,554 INFO  [UtilClass] Sleeping for 3 seconds 
+2017-09-26 23:50:50,907 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:50:51,095 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:50:55,221 INFO  [Prices] Tariff Type is selected - standard electricity tariffs 
+2017-09-26 23:50:55,236 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:50:55,486 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:50:55,723 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:51:00,387 INFO  [Prices] Tariff Availability Type is selected - available for sale 
+2017-09-26 23:51:00,387 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:51:00,624 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:51:00,829 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:51:00,829 INFO  [Prices] Tariff is selected - Fix 2020 
+2017-09-26 23:51:00,829 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:51:00,904 INFO  [Prices] Standing charge is 14.80 
+2017-09-26 23:51:00,920 INFO  [ListenerTest] standingCharge---Test method failed---
+ 
+2017-09-26 23:51:01,686 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2017-09-26 23:51:01,686 INFO  [HomePage] Homepage constructor is Invoked 
+2017-09-26 23:51:02,282 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:51:02,282 INFO  [HomePage] Menu Link Energy is Clicked 
+2017-09-26 23:51:02,282 INFO  [Energy] Energy constructor is Invoked 
+2017-09-26 23:51:20,198 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:51:20,198 INFO  [Energy] Submenu Prices and Tariff Information is Clicked 
+2017-09-26 23:51:20,198 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:51:20,660 INFO  [PricesTariffInfo] postcode is inputted -PO91QH 
+2017-09-26 23:51:20,660 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:51:20,983 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:51:20,983 INFO  [PricesTariffInfo] View Tariff button is clicked 
+2017-09-26 23:51:20,983 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:51:51,713 INFO  [UtilClass] Sleeping for 3 seconds 
+2017-09-26 23:51:55,030 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:51:55,254 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:51:58,931 INFO  [Prices] Tariff Type is selected - standard electricity tariffs 
+2017-09-26 23:51:58,931 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:51:59,154 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:51:59,358 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:04,141 INFO  [Prices] Tariff Availability Type is selected - available for sale 
+2017-09-26 23:52:04,141 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:52:04,363 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:04,562 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:04,562 INFO  [Prices] Tariff is selected - Fix 2020 
+2017-09-26 23:52:04,562 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:52:04,643 INFO  [Prices] Standing charge is 16.45 
+2017-09-26 23:52:04,643 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2017-09-26 23:52:04,941 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2017-09-26 23:52:04,941 INFO  [HomePage] Homepage constructor is Invoked 
+2017-09-26 23:52:05,257 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:05,257 INFO  [HomePage] Menu Link Energy is Clicked 
+2017-09-26 23:52:05,257 INFO  [Energy] Energy constructor is Invoked 
+2017-09-26 23:52:24,969 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:52:24,973 INFO  [Energy] Submenu Prices and Tariff Information is Clicked 
+2017-09-26 23:52:24,973 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:52:25,544 INFO  [PricesTariffInfo] postcode is inputted -PO91QH 
+2017-09-26 23:52:25,544 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:52:25,924 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:52:25,924 INFO  [PricesTariffInfo] View Tariff button is clicked 
+2017-09-26 23:52:25,924 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:52:47,679 INFO  [UtilClass] Sleeping for 3 seconds 
+2017-09-26 23:52:51,242 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:51,477 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:55,009 INFO  [Prices] Tariff Type is selected - standard electricity tariffs 
+2017-09-26 23:52:55,009 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:52:55,209 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:55,405 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:59,145 INFO  [Prices] Tariff Availability Type is selected - available for sale 
+2017-09-26 23:52:59,145 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:52:59,500 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:59,765 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:52:59,765 INFO  [Prices] Tariff is selected - SSE 1 Year Fixed v12 
+2017-09-26 23:52:59,769 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:52:59,846 INFO  [Prices] Standing charge is 14.80 
+2017-09-26 23:52:59,846 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2017-09-26 23:53:00,200 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2017-09-26 23:53:00,213 INFO  [HomePage] Homepage constructor is Invoked 
+2017-09-26 23:53:00,500 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:53:00,500 INFO  [HomePage] Menu Link Energy is Clicked 
+2017-09-26 23:53:00,504 INFO  [Energy] Energy constructor is Invoked 
+2017-09-26 23:53:24,133 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:53:24,133 INFO  [Energy] Submenu Prices and Tariff Information is Clicked 
+2017-09-26 23:53:24,133 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:53:24,397 INFO  [PricesTariffInfo] postcode is inputted -PO91QH 
+2017-09-26 23:53:24,397 INFO  [PricesTariffInfo] Prices and Tariff constructor is Invoked 
+2017-09-26 23:53:24,679 INFO  [WebDriverListener] After clicking url https://sse.co.uk/our-prices#q1 
+2017-09-26 23:53:24,679 INFO  [PricesTariffInfo] View Tariff button is clicked 
+2017-09-26 23:53:24,679 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:53:49,742 INFO  [UtilClass] Sleeping for 3 seconds 
+2017-09-26 23:53:53,352 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:53:53,591 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:53:57,758 INFO  [Prices] Tariff Type is selected - standard electricity tariffs 
+2017-09-26 23:53:57,758 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:53:58,326 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:53:58,533 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:54:15,971 INFO  [Prices] Tariff Availability Type is selected - not available for sale 
+2017-09-26 23:54:15,971 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:54:16,330 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:54:16,755 INFO  [WebDriverListener] After clicking url https://sse.co.uk/cs/Satellite?c=Page&cid=1410787220835&pagename=DXP%2FPage%2FOurPricePage 
+2017-09-26 23:54:16,755 INFO  [Prices] Tariff is selected - SSE 1 Year Fixed 
+2017-09-26 23:54:16,755 INFO  [Prices] Prices constructor is Invoked 
+2017-09-26 23:54:16,853 INFO  [Prices] Standing charge is 23.02 
+2017-09-26 23:54:16,853 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2017-09-26 23:54:23,349 INFO  [ListenerTest] Regression Suite---Test Suite Completed---
+ 
+2018-05-06 10:20:00,682 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:20:09,359 INFO  [ListenerTest] standingCharge---Test method blocked---
+ 
+2018-05-06 10:20:09,415 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 10:22:52,741 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:23:12,962 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 10:23:12,965 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 10:23:44,130 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 10:23:44,148 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 10:23:44,158 INFO  [ListenerTest] standingCharge---Test method failed---
+ 
+2018-05-06 10:23:45,146 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 10:24:46,152 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:24:51,606 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 10:24:51,607 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 10:25:01,696 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 10:25:01,713 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 10:25:01,721 INFO  [ListenerTest] standingCharge---Test method failed---
+ 
+2018-05-06 10:25:02,610 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 10:25:51,484 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:25:55,848 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 10:25:55,850 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 10:26:06,265 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 10:26:06,282 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 10:26:06,293 INFO  [ListenerTest] standingCharge---Test method failed---
+ 
+2018-05-06 10:26:07,146 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 10:26:48,585 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:26:52,959 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 10:26:52,962 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 10:27:09,893 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 10:27:09,906 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 10:27:10,149 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 10:27:11,398 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 10:33:06,345 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:33:10,954 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 10:33:10,956 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 10:33:29,344 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 10:33:29,357 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 10:33:29,389 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 10:33:30,207 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 10:34:40,766 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:35:25,915 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:36:32,730 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:37:26,975 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 10:37:26,977 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 10:37:58,059 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:38:06,318 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 10:38:06,320 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 10:38:33,438 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 10:38:33,458 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 10:41:26,878 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:41:32,141 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 10:41:32,143 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 10:49:02,328 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:51:21,020 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 10:59:57,630 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 11:39:14,104 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 11:50:22,653 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 11:51:44,480 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 11:52:24,532 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 11:54:22,221 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 11:55:36,532 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 11:56:21,943 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 11:59:16,747 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 11:59:21,530 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 11:59:22,007 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 11:59:22,526 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 12:01:25,743 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 12:01:31,318 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 12:01:31,642 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 12:01:32,209 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 12:01:40,787 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 12:01:46,451 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 12:01:46,817 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 12:01:47,345 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 12:03:08,465 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 12:03:12,905 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 12:03:12,914 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 12:03:24,322 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 12:03:24,351 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 12:03:24,382 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 12:03:25,248 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 12:03:59,297 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 12:04:04,571 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 12:04:04,574 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 12:04:18,426 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 12:05:33,408 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 12:05:38,673 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 12:05:38,675 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 12:06:00,526 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 12:09:02,810 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 12:09:06,879 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 12:09:06,880 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 12:09:27,320 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 12:09:27,529 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 12:09:27,555 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 12:09:28,585 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 12:11:22,952 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 12:11:28,525 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 12:11:28,526 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 12:11:54,629 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 12:18:32,219 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 12:18:36,807 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 12:18:36,808 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 12:20:03,694 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 12:21:25,668 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 12:21:30,885 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 12:21:35,202 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 12:21:57,886 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 13:14:10,931 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 13:14:15,264 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 13:14:19,467 INFO  [WebDriverListener] Before navigating to http://facebook.com 
+2018-05-06 13:14:20,693 INFO  [WebDriverListener] After navigating to http://facebook.com the title is facebook.com 
+2018-05-06 13:15:10,761 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 13:15:15,291 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 13:15:19,234 INFO  [WebDriverListener] Before navigating to http://facebook.com 
+2018-05-06 13:15:25,047 INFO  [WebDriverListener] After navigating to http://facebook.com the title is Facebook – log in or sign up 
+2018-05-06 13:18:40,758 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 13:18:44,748 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 13:18:44,749 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 13:18:55,271 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 13:18:55,484 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 13:18:55,511 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 13:18:58,303 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 13:51:59,961 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 13:52:07,409 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 13:52:07,410 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 13:52:31,081 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 13:52:31,257 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 13:52:31,369 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 13:52:32,554 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 13:54:17,242 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 13:54:22,585 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 13:54:22,587 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 13:54:59,695 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 13:54:59,731 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 13:54:59,768 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 13:55:00,646 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 13:57:26,453 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 13:57:31,437 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 13:57:31,437 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 13:57:59,921 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 13:58:00,145 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 13:58:00,183 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 13:58:01,027 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 14:14:29,087 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 14:14:33,131 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 14:14:33,132 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 14:14:56,988 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Energy Supplier, Phone & Broadband, Boiler Cover - SSE 
+2018-05-06 14:15:00,358 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 14:15:00,400 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 14:15:03,567 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
+2018-05-06 14:22:40,016 INFO  [ListenerTest] Default suite---Test Suite starting---
+ 
+2018-05-06 14:22:43,935 INFO  [TestBase] Opening the Url - http://sse.co.uk/ 
+2018-05-06 14:22:43,942 INFO  [WebDriverListener] Before navigating to http://sse.co.uk/ 
+2018-05-06 14:23:18,173 INFO  [WebDriverListener] After navigating to http://sse.co.uk/ the title is Compare our gas and electricity prices and tariffs 
+2018-05-06 14:23:21,079 INFO  [ListenerTest] standingCharge---Test method starting---
+ 
+2018-05-06 14:23:21,109 INFO  [ListenerTest] standingCharge---Test method passed---
+ 
+2018-05-06 14:23:24,094 INFO  [ListenerTest] Default suite---Test Suite Completed---
+ 
